@@ -1,0 +1,16 @@
+img {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    width: 100px;
+    display: inline-block;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 180, 0.5);
+}
+
+.text {
+    display: inline-block;
+    vertical-align: top;
+}
